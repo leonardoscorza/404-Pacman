@@ -2,7 +2,7 @@
 If the URL is broken, do not stress just throw a little pacman.
 
 
-![alt tag](https://raw.github.com/leonardoscorza/pacman/tree/master/image/printscreen.jpg)
+![alt tag](https://raw.githubusercontent.com/leonardoscorza/pacman/master/image/printscreen.jpg)
 
 [Check out the demo](stormy-anchorage-6431.herokuapp.com/404.html)
 
